@@ -8,4 +8,9 @@ All 24 YARG setlists will be charted. (Please note: the Keys Packs will only wor
 
 Packs Completed (0/24)
 
-Official YARG Setlist (0/102)
+Official YARG SETLIST (0/102)
+
+Assorted Rock 1 (0/7)
+
+Assorted Electronic 1 (0/7)
+
