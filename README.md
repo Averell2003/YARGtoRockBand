@@ -6,3 +6,6 @@ Every songs from all the setlists from YARG (Yet Another Rhythm Game) converted 
 WARNING: DO NOT CONVERT TO .pkg. Unless if you are playing on PS3, of course.
 All 24 YARG setlists will be charted. (Please note: the Keys Packs will only work on RB3)
 
+Packs Completed (0/24)
+
+Official YARG Setlist (0/102)
